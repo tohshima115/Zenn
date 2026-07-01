@@ -3,7 +3,7 @@ title: "ni（@antfu/ni）が自分の中で熱い！"
 emoji: "📦"
 type: "idea"
 topics: ["ni", "pnpm", "npm"]
-published: false
+published: true
 ---
 
 ni、いいですね。
